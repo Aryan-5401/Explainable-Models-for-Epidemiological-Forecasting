@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains various resources and notebooks for COVID-19 data analysis and forecasting. Below is the structure and contents of this repository:
+This repository contains various resources and notebooks for COVID-19 data analysis and explainable time-series forecasting of case count, for the CSE 8803 EPI Project: "Explainable Models for Epidemiological Forecasting". Below is the structure and contents of this repository:
 
 ### Directory Structure
 
@@ -55,5 +55,8 @@ Note: `json` and `datetime` are standard Python libraries and do not require sep
 1. Run all cells of `explainable-forecasting-main.ipynb` in your preferred environment (e.g., Jupyter, Google Colab, Kaggle) to view results and outputs. Note: LSTM model results may vary slightly with each run due to different seed values.
 2. Run all cells of `time-series-data-analysis-main.ipynb` to generate visualizations of time series trends for the four countries (USA, FRA, ITA, JPN).
 
----
+## Authors
 
+Aryan Pariani, Shayar Shah, Aravind Vengarai
+
+---
