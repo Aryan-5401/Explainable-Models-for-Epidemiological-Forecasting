@@ -1,6 +1,4 @@
-# Project Title
-
-Explainable Models for Epidemiological Forecasting
+# Explainable Models for Epidemiological Forecasting
 
 ## Description
 
